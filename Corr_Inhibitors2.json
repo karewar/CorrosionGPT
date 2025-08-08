@@ -1,0 +1,314 @@
+[
+  {
+    "name": "4-Methylthiazol-2-amine",
+    "formula": "Cc1csc(N)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 55.3
+  },
+  {
+    "name": "3-Amino-5-mercapto-1,2,4-triazole",
+    "formula": "Nc1nc(=S)[nH][nH]1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 67.6
+  },
+  {
+    "name": "1H-Benzotriazole",
+    "formula": "c1ccc2n[nH]nc2c1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 69.9
+  },
+  {
+    "name": "1-Hydroxy-7-azabenzotriazole",
+    "formula": "On1nnc2cccnc21",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 74.8
+  },
+  {
+    "name": "5-(((1-azido-3-chloropropan-2-yl)oxy)methyl)quinolin-8-ol(ACQ)",
+    "formula": "[N-]=[N+]=NCC(CCl)OCc1ccc(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 93.8
+  },
+  {
+    "name": "5-(((1-azido-3-chloropropan-2-yl)oxy)methyl)quinolin-8-ol(ACQ)",
+    "formula": "[N-]=[N+]=NCC(CCl)OCc1ccc(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 90.1
+  },
+  {
+    "name": "5-(((1-azido-3-chloropropan-2-yl)oxy)methyl)quinolin-8-ol(ACQ)",
+    "formula": "[N-]=[N+]=NCC(CCl)OCc1ccc(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 81.7
+  },
+  {
+    "name": "5-(((1,3-diazidopropan-2-yl)oxy)methyl)-quinolin-8-ol (DAQ)",
+    "formula": "[N-]=[N+]=NCC(CN=[N+]=[N-])OCc1ccc(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 96.7
+  },
+  {
+    "name": "5-(((1,3-diazidopropan-2-yl)oxy)methyl)-quinolin-8-ol (DAQ)",
+    "formula": "[N-]=[N+]=NCC(CN=[N+]=[N-])OCc1ccc(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 94.4
+  },
+  {
+    "name": "5-(((1,3-diazidopropan-2-yl)oxy)methyl)-quinolin-8-ol (DAQ)",
+    "formula": "[N-]=[N+]=NCC(CN=[N+]=[N-])OCc1ccc(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 92.3
+  },
+  {
+    "name": "4,4\u00a1\u00af-Methylenebis{N-[(E)-quinol\u00a8\u00a6ine-2-ylmethylidene]aniline}(MQ)",
+    "formula": "C(=N/c1ccc(Cc2ccc(/N=C/c3ccc4ccccc4n3)cc2)cc1)\\c1ccc2ccccc2n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 81.11
+  },
+  {
+    "name": "4,4\u00a1\u00af-Ethanebis{N-[(E)-quinol\u00a8\u00a6ine-2-ylmethylidene]aniline}(EQ)",
+    "formula": "C(=N/c1ccc(CCc2ccc(/N=C/c3ccc4ccccc4n3)cc2)cc1)\\c1ccc2ccccc2n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 85.3
+  },
+  {
+    "name": "4,4\u00a1\u00af-Oxybis{N-[(E)-quinol\u00a8\u00a6ine-2-ylmethylidene]aniline}(OQ)",
+    "formula": "C(=N/c1ccc(Oc2ccc(/N=C/c3ccc4ccccc4n3)cc2)cc1)\\c1ccc2ccccc2n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 82.8
+  },
+  {
+    "name": "(E)-4-(1-((3-hydroxyphenyl)imino)ethyl)benzene-1,3-diol(PSB1)",
+    "formula": "C/C(=N\\c1cccc(O)c1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 89.7
+  },
+  {
+    "name": "(E)-4-(1-((3-hydroxyphenyl)imino)ethyl)benzene-1,3-diol(PSB1)",
+    "formula": "C/C(=N\\c1cccc(O)c1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 89.0
+  },
+  {
+    "name": "(E)-4-(1-((3-hydroxyphenyl)imino)ethyl)benzene-1,3-diol(PSB1)",
+    "formula": "C/C(=N\\c1cccc(O)c1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 83.6
+  },
+  {
+    "name": "(E)-4-(1-((3-hydroxyphenyl)imino)ethyl)benzene-1,3-diol(PSB1)",
+    "formula": "C/C(=N\\c1cccc(O)c1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 79.3
+  },
+  {
+    "name": "(E)-4-(1-(pyridin-2ylimino)ethyl)benzene-1,3-diol(PSB2)",
+    "formula": "C/C(=N\\c1ccccn1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 90.0
+  },
+  {
+    "name": "(E)-4-(1-(pyridin-2ylimino)ethyl)benzene-1,3-diol(PSB2)",
+    "formula": "C/C(=N\\c1ccccn1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 85.5
+  },
+  {
+    "name": "(E)-4-(1-(pyridin-2ylimino)ethyl)benzene-1,3-diol(PSB2)",
+    "formula": "C/C(=N\\c1ccccn1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 80.8
+  },
+  {
+    "name": "(E)-4-(1-(pyridin-2ylimino)ethyl)benzene-1,3-diol(PSB2)",
+    "formula": "C/C(=N\\c1ccccn1)c1ccc(O)cc1O",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 78.6
+  },
+  {
+    "name": "N1-(2-morpholinoethyl)-N1,N3-bis(pyridine-2-ylmethyl)propane-1,3-diamine(RSB)",
+    "formula": "c1ccc(CNCCCN(CCN2CCCCC2)Cc2ccccn2)nc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 86.0
+  },
+  {
+    "name": "N,N,1-tri(oxiran-2-ylmethoxy)-5-((oxiran-2-ylmethoxy)thio)-1H-1,2,4-triazol-3-amine(TTA)",
+    "formula": "C1OC1CSc1nc(N(CC2CO2)CC2CO2)nn1CC1CO1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 90.8
+  },
+  {
+    "name": "N,N,1-tri(oxiran-2-ylmethoxy)-5-((oxiran-2-ylmethoxy)thio)-1H-1,2,4-triazol-3-amine(TTA)",
+    "formula": "C1OC1CSc1nc(N(CC2CO2)CC2CO2)nn1CC1CO1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 84.5
+  },
+  {
+    "name": "Linagliptin (LGP)",
+    "formula": "CC#CCn1c(N2CCCC(N)C2)nc2c1c(=O)n(Cc1nc(C)c3ccccc3n1)c(=O)n2C",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 90.0
+  },
+  {
+    "name": "Linagliptin (LGP)",
+    "formula": "CC#CCn1c(N2CCCC(N)C2)nc2c1c(=O)n(Cc1nc(C)c3ccccc3n1)c(=O)n2C",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 94.0
+  },
+  {
+    "name": "(2E)-3-(4-methylphenyl)prop-2-enal (MeCA)",
+    "formula": "Cc1ccc(/C=C/C=O)cc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 73.0
+  },
+  {
+    "name": "(2E)-3-(4-methylphenyl)prop-2-enal (MeCA)",
+    "formula": "Cc1ccc(/C=C/C=O)cc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 57.0
+  },
+  {
+    "name": "(2E)-3-(4-methylphenyl)prop-2-enal (MeCA)",
+    "formula": "Cc1ccc(/C=C/C=O)cc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 43.0
+  },
+  {
+    "name": "(2E)-3-(4-methylphenyl)prop-2-enal (MeCA)",
+    "formula": "Cc1ccc(/C=C/C=O)cc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 33.0
+  },
+  {
+    "name": "e2,4-Bis(2\u00a8Chydroxynaphthaldehyde)diiminotholuene(L)",
+    "formula": "Cc1ccc(/N=C/c2c(O)ccc3ccccc23)cc1/N=C/c1c(O)ccc2ccccc12",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 92.46
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 85.8
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 93.1
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 98.2
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 99.2
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 99.3
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 99.4
+  },
+  {
+    "name": "N, N-bis(propiophenone),N (-1-polyethyleneployamine- 2-stearic-imidazole) benzyl ammonium chloride (PPLC)",
+    "formula": "CCCCCCCCCCCCCCCCC1=NCCN1CCNCCNCC[N+](CCC(=O)c1ccccc1)(CCC(=O)c1ccccc1)C(Cl)c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 99.6
+  },
+  {
+    "name": "2-(n-n-Dodecylamino)-4,6-bis(3-N,N-dimethylaminopropyl)amino-1,3,5-triazine",
+    "formula": "CCCCCCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 96.66
+  },
+  {
+    "name": "2-(n-n-Dodecylamino)-4,6-bis(3-N,N-dimethylaminopropyl)amino-1,3,5-triazine",
+    "formula": "CCCCCCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 91.67
+  },
+  {
+    "name": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 94.41
+  },
+  {
+    "name": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 93.01
+  },
+  {
+    "name": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 92.65
+  },
+  {
+    "name": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 89.6
+  },
+  {
+    "name": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 87.33
+  },
+  {
+    "name": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 83.61
+  },
+  {
+    "name": "Potassium 3-(1H-imidazol-4-yl)-2-(((E)-3-phenylallylidene)amino)propanoate",
+    "formula": "O=C(O[K])C(Cc1c[nH]cn1)/N=C\\\\C=C\\\\c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 97.7
+  },
+  {
+    "name": "Potassium 3-(1H-imidazol-4-yl)-2-(((E)-3-phenylallylidene)amino)propanoate",
+    "formula": "O=C(O[K])C(Cc1c[nH]cn1)/N=C\\\\C=C\\\\c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 94.0
+  },
+  {
+    "name": "Potassium 3-(1H-imidazol-4-yl)-2-(((E)-3-phenylallylidene)amino)propanoate",
+    "formula": "O=C(O[K])C(Cc1c[nH]cn1)/N=C\\\\C=C\\\\c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 39.7
+  },
+  {
+    "name": "Potassium 3-(1H-imidazol-4-yl)-2-(((E)-3-phenylallylidene)amino)propanoate",
+    "formula": "O=C(O[K])C(Cc1c[nH]cn1)/N=C\\\\C=C\\\\c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 87.6
+  },
+  {
+    "name": "Potassium 3-(1H-imidazol-4-yl)-2-(((E)-3-phenylallylidene)amino)propanoate",
+    "formula": "O=C(O[K])C(Cc1c[nH]cn1)/N=C\\\\C=C\\\\c1ccccc1",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 90.0
+  },
+  {
+    "name": "4,4'-Hexamethylenebis(1,1-dimethylsemicarbazide)(Compound)",
+    "formula": "CN(C)NC(=O)NCCCCCCNC(=O)NN(C)C",
+    "properties": "Corrosion inhibitor from dataset 2.",
+    "efficiency": 83.3
+  }
+]
