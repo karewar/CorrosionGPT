@@ -1,0 +1,1904 @@
+[
+  {
+    "name": "Compound 1",
+    "formula": "OCC1N=NN(C=1)CC1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.3
+  },
+  {
+    "name": "Compound 2",
+    "formula": "OCC1N=NN(C=1)CC1C=CN=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.2
+  },
+  {
+    "name": "Compound 3",
+    "formula": "CCCCCCCCCC[N+](C1=CC=C(C=C1)C=NC(=S)N=CC1=CC=C(C=C1)[N+](CCCCCCCCCC)(C)C)(C)C.[Br-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.46
+  },
+  {
+    "name": "Compound 4",
+    "formula": "CCCCCCCCCCCC[N+](C1=CC=C(C=C1)C=NC(=S)N=CC1C=CC(=CC=1)[N+](CCCCCCCCCCCC)(C)C)(C)C.[Br-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.18
+  },
+  {
+    "name": "Compound 5",
+    "formula": "CCCCCCCCCCCCCCCC[N+](C1C=CC(=CC=1)C=NC(=S)N=CC1=CC=C(C=C1)[N+](CCCCCCCCCCCCCCCC)(C)C)(C)C.[Br-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.04
+  },
+  {
+    "name": "Compound 6",
+    "formula": "NC(=O)C1=CC=C(C=C1)/N=C/C1=CC=CS1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.0
+  },
+  {
+    "name": "Compound 7",
+    "formula": "OP(=O)(CN(CP(=O)(O)O)CCCCCCN(CP(=O)(O)O)CP(=O)(O)O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 73.27
+  },
+  {
+    "name": "Compound 8",
+    "formula": "C1SC=C(C=1)/C=N/C1C=CC(=CC=1)CC1C=CC(=CC=1)/N=C/C1=CSC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 76.1
+  },
+  {
+    "name": "Compound 9",
+    "formula": "COC1C=CC(=C(C=1)[N+](=O)[O-])N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.1
+  },
+  {
+    "name": "Compound 10",
+    "formula": "CNC1=CC=C(C=C1)OC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.7
+  },
+  {
+    "name": "Compound 11",
+    "formula": "O=CC1C=CC(=C(C=1)Br)OC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.9
+  },
+  {
+    "name": "Compound 12",
+    "formula": "CC1=CC(O)=C(C(=O)O1)/C(=N/C1=CC=CC=C1)/C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.5
+  },
+  {
+    "name": "Compound 13",
+    "formula": "CC1=CC(O)=C(C(=O)O1)/C(=N/C1C=CC=CC=1Cl)/C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.4
+  },
+  {
+    "name": "Compound 14",
+    "formula": "CCOC(=O)C1=C(C2C=CC=CC=2)C(=C(OC1C)N)C#N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 68.0
+  },
+  {
+    "name": "Compound 15",
+    "formula": "CC1=CC(O)=C(C(=O)O1)C(=O)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 80.6
+  },
+  {
+    "name": "Compound 16",
+    "formula": "NCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.1
+  },
+  {
+    "name": "Compound 17",
+    "formula": "CC(=O)NCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.9
+  },
+  {
+    "name": "Compound 18",
+    "formula": "CN(CC1C=CC(=C2C=1C=CC=N2)O)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.8
+  },
+  {
+    "name": "Compound 19",
+    "formula": "O=S(=O)(C1=CC=C(C=C1)OCC1OC1)C1=CC=C(C=C1)OCC1OC1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.6
+  },
+  {
+    "name": "Compound 20",
+    "formula": "C1C=CC(=C(C=1)C1C=CC=CC=1OCC1CO1)OCC1CO1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.8
+  },
+  {
+    "name": "Compound 21",
+    "formula": "CN1C(=O)NC(C1=O)(C1=CC=CC=C1)C1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.1
+  },
+  {
+    "name": "Compound 22",
+    "formula": "OC1C=CC(=C2C=1N=CC=C2)COCC1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.2
+  },
+  {
+    "name": "Compound 23",
+    "formula": "CCN(CCOCC1C=CC(=C2C=1C=CC=N2)O)CC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.7
+  },
+  {
+    "name": "Compound 24",
+    "formula": "OC1C=CC=CC=1/C=N/C1C=CC=CC=1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 80.0
+  },
+  {
+    "name": "Compound 25",
+    "formula": "CC1C=CC(=C(C=1)/C=N/C1C=CC=CC=1O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.0
+  },
+  {
+    "name": "Compound 26",
+    "formula": "COC1C=CC(=C(C=1)/C=N/C1C=CC=CC=1O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 27",
+    "formula": "C=CCSC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.7
+  },
+  {
+    "name": "Compound 28",
+    "formula": "C(SC1=NC2=C(N1)C=CC=C2)SC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.1
+  },
+  {
+    "name": "Compound 29",
+    "formula": "CCCCCCN1C=C[N+](=C1)C.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.4
+  },
+  {
+    "name": "Compound 30",
+    "formula": "CCCCN1C=C[N+](=C1)C.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.4
+  },
+  {
+    "name": "Compound 31",
+    "formula": "CCCN1C=C[N+](=C1)C.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 77.4
+  },
+  {
+    "name": "Compound 32",
+    "formula": "CCOC(=O)C1N(N=NC1C(=O)OCC)CC1(CC)COC(=N1)C1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.5
+  },
+  {
+    "name": "Compound 33",
+    "formula": "CCCCCCCC[N+](CCOCCO)(C)C.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.9
+  },
+  {
+    "name": "Compound 34",
+    "formula": "CCCCCCCC[N+](C1=CC=C(C=C1)/C=N/C1=CN(N(C1=O)C1C=CC=CC=1)C)(C)C.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.03
+  },
+  {
+    "name": "Compound 35",
+    "formula": "CCCCCCCCCCCC[N+](C1C=CC(=CC=1)/C=N/C1=CN(N(C1=O)C1C=CC=CC=1)C)(C)C.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.27
+  },
+  {
+    "name": "Compound 36",
+    "formula": "CCCCCCCCCCCCCCCC[N+](C1C=CC(=CC=1)/C=N/C1=CN(N(C1=O)C1=CC=CC=C1)C)(C)C.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.01
+  },
+  {
+    "name": "Compound 37",
+    "formula": "ClC1C=CC(=CC=1)C(=O)C[N+]1C=CC=CN=1.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 38",
+    "formula": "NC1C=CC2=C(C=1)C1C=C(N)C=CC=1S2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.5
+  },
+  {
+    "name": "Compound 39",
+    "formula": "C1=CSC(=C1)/C=N/C1C=CC2=C(C=1)C1C=C(/N=C/C3=CC=CS3)C=CC=1S2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.4
+  },
+  {
+    "name": "Compound 40",
+    "formula": "OC1C=CC=CC=1C=NC1C=CC=CC=1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.0
+  },
+  {
+    "name": "Compound 41",
+    "formula": "CC1C=CC=CC=1N=CC1C=CC=CC=1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.0
+  },
+  {
+    "name": "Compound 42",
+    "formula": "COC1C=CC=CC=1N=CC1C=CC=CC=1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.0
+  },
+  {
+    "name": "Compound 43",
+    "formula": "OC1C=CC(=C2C=1N=CC=C2)CN1C(=O)N(C2=C1C=CC=C2)CC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.5
+  },
+  {
+    "name": "Compound 44",
+    "formula": "OC1C=CC(=C2C=1N=CC=C2)CN1C2C=CC=CC=2N(C1=O)C(=C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.6
+  },
+  {
+    "name": "Compound 45",
+    "formula": "O1CC1CN(C1C=CC=CC=1)CC1OC1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.3
+  },
+  {
+    "name": "Compound 46",
+    "formula": "ClC1=NC=CN1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 47.7
+  },
+  {
+    "name": "Compound 47",
+    "formula": "CC(=O)C1=CC=C(C=C1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 70.5
+  },
+  {
+    "name": "Compound 48",
+    "formula": "NC1=CC=C(C=C1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 66.2
+  },
+  {
+    "name": "Compound 49",
+    "formula": "O=CC1C=CC(=CC=1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 72.2
+  },
+  {
+    "name": "Compound 50",
+    "formula": "BrC1C=CC(=CC=1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 56.4
+  },
+  {
+    "name": "Compound 51",
+    "formula": "ClC1=CC=C(C=C1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 51.3
+  },
+  {
+    "name": "Compound 52",
+    "formula": "OC1=CC=C(C=C1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 78.4
+  },
+  {
+    "name": "Compound 53",
+    "formula": "ClC1C=CC=C(C=1)N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 57.2
+  },
+  {
+    "name": "Compound 54",
+    "formula": "ClC1C=CC=CC=1N1C=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 51.9
+  },
+  {
+    "name": "Compound 55",
+    "formula": "ClCC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.0
+  },
+  {
+    "name": "Compound 56",
+    "formula": "BrC1C=CC2=C(C=1)NC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 60.7
+  },
+  {
+    "name": "Compound 57",
+    "formula": "NC1C=CC2=C(C=1)NC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 62.6
+  },
+  {
+    "name": "Compound 58",
+    "formula": "C1C=CC(=CC=1)OCCC[N+]1C=CC=CN=1.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.03
+  },
+  {
+    "name": "Compound 59",
+    "formula": "C1C=CC(=NC=1)/C=N/C1C=CC(=CC=1)OC1C=CC(=CC=1)/N=C/C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.14
+  },
+  {
+    "name": "Compound 60",
+    "formula": "C1C=CC(=NC=1)/C=N/C1=CC=C(C=C1)OC1=CC=C(C=C1)OC1=CC=C(C=C1)/N=C/C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.83
+  },
+  {
+    "name": "Compound 61",
+    "formula": "[O-][N+](=O)C1C=CC(=CC=1)C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.9
+  },
+  {
+    "name": "Compound 62",
+    "formula": "NC1=CC=C(C=C1)C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.9
+  },
+  {
+    "name": "Compound 63",
+    "formula": "[O-][N+](=O)C1C=CC=CC=1C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.9
+  },
+  {
+    "name": "Compound 64",
+    "formula": "NC1C=CC=CC=1C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.3
+  },
+  {
+    "name": "Compound 65",
+    "formula": "C1=CC=C(C=C1)C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.9
+  },
+  {
+    "name": "Compound 66",
+    "formula": "OC1C=CC=CC=1C1=NC(=C(N1C1=CC=CC=C1)C1=CC=CC=C1)C1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.0
+  },
+  {
+    "name": "Compound 67",
+    "formula": "COC1C=C(O)C=CC=1C1=NC(=C(N1C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.4
+  },
+  {
+    "name": "Compound 68",
+    "formula": "CC[N+]1=CC=C(C=C1)C(=O)N/N=C/C1C=CC(=CC=1)F.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.8
+  },
+  {
+    "name": "Compound 69",
+    "formula": "CCCC[N+]1=CC=C(C=C1)C(=O)N/N=C/C1C=CC(=CC=1)F.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.3
+  },
+  {
+    "name": "Compound 70",
+    "formula": "C[N+](=C1C=CC(=C(C2=CC=C(C=C2)N(C)C)C2C=CC(=CC=2)N(C)C)C=C1)C.[Cl-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 75.0
+  },
+  {
+    "name": "Compound 71",
+    "formula": "O=C(CC1=CC=CC=C1)N[C@@H]1C(=O)N2[C@@H]1SC(C2C(=O)O)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.8
+  },
+  {
+    "name": "Compound 72",
+    "formula": "NC(C1=CC=CC=C1)C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C2C(=O)O)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.4
+  },
+  {
+    "name": "Compound 73",
+    "formula": "O=C(C(C1C=CC(=CC=1)O)N)N[C@@H]1C(=O)N2[C@@H]1SC(C2C(=O)O)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 66.6
+  },
+  {
+    "name": "Compound 74",
+    "formula": "COC1C=CC(=C(C=1)/C=N/N1C(NC2=C(C1=O)C=CC=C2)C1C=C(OC)C=CC=1O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.0
+  },
+  {
+    "name": "Compound 75",
+    "formula": "OC1C=CC(=CC=1/C=N/N1C(NC2=C(C1=O)C=CC=C2)C1C=C(C=CC=1O)[N+](=O)[O-])[N+](=O)[O-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.2
+  },
+  {
+    "name": "Compound 76",
+    "formula": "CC(C1C=CC(=CC=1)/C=N/NC1C=CC(=CC=1[N+](=O)[O-])[N+](=O)[O-])C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.46
+  },
+  {
+    "name": "Compound 77",
+    "formula": "CCCCCCCCCCCC[N+](CCOCCO)(C)C.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.4
+  },
+  {
+    "name": "Compound 78",
+    "formula": "CCCCCCCCCCCCCCCC[N+](CCCNC(=O)CCCCCCCCCCCCCCC)(C)C.[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.5
+  },
+  {
+    "name": "Compound 79",
+    "formula": "C1C=CC(=CC=1)CC1C=CC2=C(C=1)C=CC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.54
+  },
+  {
+    "name": "Compound 80",
+    "formula": "OS(=O)(=O)C1C(CC2C=CC3=C(C=2)C=CC=N3)=C(C(=C(C=1S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.03
+  },
+  {
+    "name": "Compound 81",
+    "formula": "COC(=O)[C@@]1(O)C[C@]2(CC)CCCN3[C@@H]2C2N1C1C=CC=CC=1C=2CC3",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 79.4
+  },
+  {
+    "name": "Compound 82",
+    "formula": "S=C(OC1C=CC(=CC=1)C(C1C=CC(=CC=1)C(=S)SCC1CO1)(C)C)SCC1CO1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.0
+  },
+  {
+    "name": "Compound 83",
+    "formula": "CC1=CC=C(C=C1)C1=NC2C=CC=CC=2C(=O)N1C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.27
+  },
+  {
+    "name": "Compound 84",
+    "formula": "O=C1N(C)C(=NC2=C1C=CC=C2)C1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.93
+  },
+  {
+    "name": "Compound 85",
+    "formula": "[O-][N+](=O)C1C=CC(=CC=1)C1=NC2C=CC=CC=2C(=O)N1C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.72
+  },
+  {
+    "name": "Compound 86",
+    "formula": "OC1=CC=C(C=C1)C1=NC2C=CC=CC=2C(=O)N1C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.94
+  },
+  {
+    "name": "Compound 87",
+    "formula": "N[C@H](C(=O)O)CS",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 45.0
+  },
+  {
+    "name": "Compound 88",
+    "formula": "CN1CCN(CC1)C(=S)NCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.1
+  },
+  {
+    "name": "Compound 89",
+    "formula": "S=C(N1CCN(CC1)C1C=CC=CC=1)NCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.5
+  },
+  {
+    "name": "Compound 90",
+    "formula": "CCCCCCC[N+]1C=CC=CN=1.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.4
+  },
+  {
+    "name": "Compound 91",
+    "formula": "CCCCCCCCC[N+]1C=CC=CN=1.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.7
+  },
+  {
+    "name": "Compound 92",
+    "formula": "CCCCCCCC[N+]1C=CC=CN=1.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.2
+  },
+  {
+    "name": "Compound 93",
+    "formula": "CCOC1C=CC(=CC=1)/C=N/NC(=S)N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.0
+  },
+  {
+    "name": "Compound 94",
+    "formula": "NC(=S)N/N=C/C1=CC=C(C=C1)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.0
+  },
+  {
+    "name": "Compound 95",
+    "formula": "COC1C=C(/C=N/NC(=S)N)C=CC=1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.0
+  },
+  {
+    "name": "Compound 96",
+    "formula": "NC(=S)N/N=C/C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 78.0
+  },
+  {
+    "name": "Compound 97",
+    "formula": "NC(=O)N/N=C/C1=CC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 63.0
+  },
+  {
+    "name": "Compound 98",
+    "formula": "CNC(=O)N/N=C/C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 52.0
+  },
+  {
+    "name": "Compound 99",
+    "formula": "CCCCCCCCCCCCCSC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.7
+  },
+  {
+    "name": "Compound 100",
+    "formula": "SC1C=CC=CC=1/N=C/C1C=CC(=CC=1)N(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 77.0
+  },
+  {
+    "name": "Compound 101",
+    "formula": "O=C1NC2C=CC=CC=2SC1C1C=CC(=CC=1)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.0
+  },
+  {
+    "name": "Compound 102",
+    "formula": "O=C1SC2C=CC=CC=2NC1C1=CC=C(C=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.0
+  },
+  {
+    "name": "Compound 103",
+    "formula": "OC[C@@H]1O[C@@H](O)C([C@@H]([C@H]1O)O)N1C(=C(C#N)C(C2=C1NC(=O)NC2=O)C1=CC=C(C=C1)[N+](=O)[O-])N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.79
+  },
+  {
+    "name": "Compound 104",
+    "formula": "CCCCCCSC1=NC=NN1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 105",
+    "formula": "CCCCC1=NC(=C(N1CC1=CC=C(C=C1)C1C=CC=CC=1C1=NN=NN1[K])CO)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 83.0
+  },
+  {
+    "name": "Compound 106",
+    "formula": "C1SC=C(N=1)C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.1
+  },
+  {
+    "name": "Compound 107",
+    "formula": "O1CC1CN(C1=CC=C(C=C1)OC1C=CC(=CC=1)N(CC1OC1)CC1OC1)CC1OC1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.3
+  },
+  {
+    "name": "Compound 108",
+    "formula": "CCN(C1C=CC(=CC=1)C=NC1=NN=C(S1)S)CC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.9
+  },
+  {
+    "name": "Compound 109",
+    "formula": "O=C(OC(C)(C)C)NCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.9
+  },
+  {
+    "name": "Compound 110",
+    "formula": "CCOC(=O)CC(=O)NCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 83.1
+  },
+  {
+    "name": "Compound 111",
+    "formula": "FS(=O)(=O)[N-]S(=O)(=O)F.OCCN1CC=[N+](C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 13.7
+  },
+  {
+    "name": "Compound 112",
+    "formula": "FC(S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F)(F)F.OCCN1CC=[N+](C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 26.4
+  },
+  {
+    "name": "Compound 113",
+    "formula": "[O-][N+](=O)C1C=CC2=C(C=1)C(=O)C1=C(N2)C=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 83.8
+  },
+  {
+    "name": "Compound 114",
+    "formula": "F[P-](F)(F)(F)(F)F.OCC[N+]1C=CN(C=1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 43.77
+  },
+  {
+    "name": "Compound 115",
+    "formula": "CCCCCCOC1C2OC(O[C@H]2O[C@@]21CO2)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.3
+  },
+  {
+    "name": "Compound 116",
+    "formula": "CCCCCCCCCCCCOC1C2OC(O[C@H]2O[C@@]21CO2)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.4
+  },
+  {
+    "name": "Compound 117",
+    "formula": "CCCCCCCC[N+](C1C=CC(=CC=1)/C=N/C1C=CC(=CC=1OC)C1C=CC(=C(C=1)OC)/N=C/C1=CC=C(C=C1)[N+](CCCCCCC)(C)C)(C)C.[Br-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.27
+  },
+  {
+    "name": "Compound 118",
+    "formula": "CCCCCCCCCC[N+](C1C=CC(=CC=1)/C=N/C1C=CC(=CC=1OC)C1C=CC(=C(C=1)OC)/N=C/C1=CC=C(C=C1)[N+](CCCCCCCCC)(C)C)(C)C.[Br-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.76
+  },
+  {
+    "name": "Compound 119",
+    "formula": "CCCCCCCCCCCC[N+](C1C=CC(=CC=1)/C=N/C1C=CC(=CC=1OC)C1C=CC(=C(C=1)OC)/N=C/C1C=CC(=CC=1)[N+](CCCCCCCCCCC)(C)C)(C)C.[Br-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.11
+  },
+  {
+    "name": "Compound 120",
+    "formula": "O=C(CN1N=C(C=C1C)C)N/N=C/C1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 75.7
+  },
+  {
+    "name": "Compound 121",
+    "formula": "O=C(CN1N=C(C=C1C)C)N/N=C/C1C=CC(=CC=1)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.0
+  },
+  {
+    "name": "Compound 122",
+    "formula": "NCC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 63.4
+  },
+  {
+    "name": "Compound 123",
+    "formula": "N(CC1=NC2=C(N1)C=CC=C2)CC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.6
+  },
+  {
+    "name": "Compound 124",
+    "formula": "C1C=CC2=C(C=1)NC(=N2)CN(CC1=NC2=C(N1)C=CC=C2)CC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.0
+  },
+  {
+    "name": "Compound 125",
+    "formula": "O(CC1OC1)CCOC1N=C(OCCOCC2OC2)N=C(N=1)OCCOCC1OC1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 84.0
+  },
+  {
+    "name": "Compound 126",
+    "formula": "OC1C=CC(=C2C=1N=CC=C2)CC1=NCCN1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.19
+  },
+  {
+    "name": "Compound 127",
+    "formula": "OC1C=CC(=C2C=1N=CC=C2)CC1=NCCO1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.65
+  },
+  {
+    "name": "Compound 128",
+    "formula": "C1SC=C(C=1)/C=N/C1C=CC(=CC=1)OC1=CC=C(C=C1)/N=C/C1=CSC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.0
+  },
+  {
+    "name": "Compound 129",
+    "formula": "C1SC=C(C=1)/C=N/C1=CC=C(C=C1)CCC1C=CC(=CC=1)/N=C/C1=CSC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.1
+  },
+  {
+    "name": "Compound 130",
+    "formula": "COOCC1=C(N)N=NN1CC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.0
+  },
+  {
+    "name": "Compound 131",
+    "formula": "CC1=CC(O)=C(C(=O)O1)C(=O)/C=C/C1C=CC=C2C=1N=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.2
+  },
+  {
+    "name": "Compound 132",
+    "formula": "CC1=CC(O)=C(C(=O)O1)C(=O)/C=C/C1C=CC(=CC=1)N(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.8
+  },
+  {
+    "name": "Compound 133",
+    "formula": "N1C=CC(=CC=1)C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 80.5
+  },
+  {
+    "name": "Compound 134",
+    "formula": "NOCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.9
+  },
+  {
+    "name": "Compound 135",
+    "formula": "NNCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.0
+  },
+  {
+    "name": "Compound 136",
+    "formula": "CCC[N+]1C=CC(=CC=1)C(=O)N/N=C/C1=CC=C(C=C1)F.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.6
+  },
+  {
+    "name": "Compound 137",
+    "formula": "CCCCC[N+]1C=CC(=CC=1)C(=O)N/N=C/C1=CC=C(C=C1)F.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.8
+  },
+  {
+    "name": "Compound 138",
+    "formula": "NCCNCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.9
+  },
+  {
+    "name": "Compound 139",
+    "formula": "NCCOCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.9
+  },
+  {
+    "name": "Compound 140",
+    "formula": "CC1C=CC(=CC=1)NC(=O)CN1C(=NC2=C1C=CC=C2)C1=CC=C(C=C1)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.6
+  },
+  {
+    "name": "Compound 141",
+    "formula": "O=C(CN1C(=NC2=C1C=CC=C2)C1C=CC(=CC=1)Cl)NC1=CC(C)=CC(=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.0
+  },
+  {
+    "name": "Compound 142",
+    "formula": "O=C(CN1C(=NC2=C1C=CC=C2)C1C=CC(=CC=1)Cl)NC1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.6
+  },
+  {
+    "name": "Compound 143",
+    "formula": "BrC1=CC=C(C=C1)C1=NC2C(N1CC1C=CC(=C3C=1C=CC=N3)O)=CC(=C(C=2)C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.0
+  },
+  {
+    "name": "Compound 144",
+    "formula": "BrC1=CC=C(C=C1)C1=NC2=C(N1CC1C=CC(=C3C=1C=CC=N3)O)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.1
+  },
+  {
+    "name": "Compound 145",
+    "formula": "NC1=NC(N)=NC(=N1)N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 63.87
+  },
+  {
+    "name": "Compound 146",
+    "formula": "CCCCCCCCNC1N=C(NCCCN(C)C)N=C(N=1)NCCCN(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.53
+  },
+  {
+    "name": "Compound 147",
+    "formula": "CCCCCCCCNC1N=C(NCCCN(C)C)N=C(N=1)SC1=NN=C(S1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.72
+  },
+  {
+    "name": "Compound 148",
+    "formula": "CCOP(=O)(C(C1C=CC=CC=1OC)NC)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.06
+  },
+  {
+    "name": "Compound 149",
+    "formula": "CCOP(=O)(C(C1C=CC=C(C=1)OC)NC)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.64
+  },
+  {
+    "name": "Compound 150",
+    "formula": "CC1SC=C(N=1)C1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.3
+  },
+  {
+    "name": "Compound 151",
+    "formula": "CN=C(S/C=C(/C1C=CC(=CC=1)O)\\C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.6
+  },
+  {
+    "name": "Compound 152",
+    "formula": "OC1=CC=C(C=C1)C1N=C(SC=1SC1SC(=NC=1C1=CC=C(C=C1)O)N)N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.1
+  },
+  {
+    "name": "Compound 153",
+    "formula": "SC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.0
+  },
+  {
+    "name": "Compound 154",
+    "formula": "C1C=CC2=C(C=1)NC(=N2)SSC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.0
+  },
+  {
+    "name": "Compound 155",
+    "formula": "ClC1C=CC(=CC=1)C(=O)OCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.1
+  },
+  {
+    "name": "Compound 156",
+    "formula": "O=C(C1C=CC(=CC=1)[N+](=O)[O-])OCC1C=CC(=C2C=1C=CC=N2)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.1
+  },
+  {
+    "name": "Compound 157",
+    "formula": "NC1NC(=O)C2=C(N=1)NC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 67.8
+  },
+  {
+    "name": "Compound 158",
+    "formula": "NC1N=CN=C2C=1N=CN2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 69.9
+  },
+  {
+    "name": "Compound 159",
+    "formula": "NC1N=C(N)C2=C(N=1)NC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 70.9
+  },
+  {
+    "name": "Compound 160",
+    "formula": "NC1N=C(S)C2=C(N=1)NC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 78.4
+  },
+  {
+    "name": "Compound 161",
+    "formula": "SC1N=C(S)C2=C(N=1)NC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.4
+  },
+  {
+    "name": "Compound 162",
+    "formula": "NN1C(S)=NN=C1CN1C=NC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 71.6
+  },
+  {
+    "name": "Compound 163",
+    "formula": "SC1=NN=C(N1N=CC1C=CC=CC=1[N+](=O)[O-])CN1N=CN=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.1
+  },
+  {
+    "name": "Compound 164",
+    "formula": "SC1=NN=C(N1N=CC1C=CC=CC=1F)CN1N=CN=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.2
+  },
+  {
+    "name": "Compound 165",
+    "formula": "COC1C=CC=CC=1C=NN1C(S)=NN=C1CN1N=CN=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.4
+  },
+  {
+    "name": "Compound 166",
+    "formula": "CN(C1=CC=C(C=C1)C=NN1C(S)=NN=C1CN1N=CN=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.4
+  },
+  {
+    "name": "Compound 167",
+    "formula": "ClC1=CC=C(C=C1)C=NN1C(S)=NN=C1CN1N=CN=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.9
+  },
+  {
+    "name": "Compound 168",
+    "formula": "O=C(CN1C=NC=N1)NNC(=S)NC(C1=CC=CC=C1)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.8
+  },
+  {
+    "name": "Compound 169",
+    "formula": "O=C(CN1C=NC=N1)NNC(=S)NC(C1C=C(C)C=C(C=1)C)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.8
+  },
+  {
+    "name": "Compound 170",
+    "formula": "CC(=NOCN1C=NN=C1)C1C=CC(=CC=1)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.8
+  },
+  {
+    "name": "Compound 171",
+    "formula": "COC1C=CC(=CC=1)C(=NOCN1C=NN=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.8
+  },
+  {
+    "name": "Compound 172",
+    "formula": "CC(=NOCN1C=NN=C1)C1=CC=C(C=C1)F",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.5
+  },
+  {
+    "name": "Compound 173",
+    "formula": "CC(=NOCN1C=NN=C1)C1C=CC(=C(C=1)Cl)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.7
+  },
+  {
+    "name": "Compound 174",
+    "formula": "ClC1C=CC(=C(C=1)C(=NOCN1C=NN=C1)C)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.0
+  },
+  {
+    "name": "Compound 175",
+    "formula": "O=C(N1CCC(=N1)C1C=CC=CC=1)CN1C=NC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.0
+  },
+  {
+    "name": "Compound 176",
+    "formula": "FC1=CC=C(C=C1)C1=NN(CC1)C(=O)CN1C=NC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.0
+  },
+  {
+    "name": "Compound 177",
+    "formula": "ClC1C=CC(=C(C=1)Cl)C1=NN(CC1)C(=O)CN1C=NC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 99.0
+  },
+  {
+    "name": "Compound 178",
+    "formula": "O=C(C1C=CC=CC=1)CSC1=NN=C(O1)CN1C=NC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.4
+  },
+  {
+    "name": "Compound 179",
+    "formula": "CC(C1C=CC(=CC=1)CSC1=NN=C(O1)CN1N=CN=C1)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.6
+  },
+  {
+    "name": "Compound 180",
+    "formula": "CC(=O)N1N=C(OC1C1=CC=C(C=C1)[N+](=O)[O-])CN1N=CN=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.8
+  },
+  {
+    "name": "Compound 181",
+    "formula": "COC1C=CC(=CC=1)C(=O)CSC1=NN=C(N1)CN1N=CN=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.7
+  },
+  {
+    "name": "Compound 182",
+    "formula": "O=C(C1=CC=C(C=C1)OCN1N=CN=C1)C=CC1=CC=C(C=C1)F",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.3
+  },
+  {
+    "name": "Compound 183",
+    "formula": "NC1C=CC=CC=1Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 63.62
+  },
+  {
+    "name": "Compound 184",
+    "formula": "NC1C=CC=CC=1F",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 57.38
+  },
+  {
+    "name": "Compound 185",
+    "formula": "COC1C=CC=CC=1N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 56.79
+  },
+  {
+    "name": "Compound 186",
+    "formula": "CCOC1C=CC=CC=1N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 55.26
+  },
+  {
+    "name": "Compound 187",
+    "formula": "CCC1C=CC=CC=1N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 49.88
+  },
+  {
+    "name": "Compound 188",
+    "formula": "CC1C=CC=CC=1N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 43.13
+  },
+  {
+    "name": "Compound 189",
+    "formula": "[O-][N+](=O)C1C=CC2=C(C=1)C=NN2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 75.9
+  },
+  {
+    "name": "Compound 190",
+    "formula": "COC1C2OC(O[C@H]2C[C@@H]1C1OC1)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.9
+  },
+  {
+    "name": "Compound 191",
+    "formula": "CCCCCCOC1C2OC(O[C@H]2C[C@@H]1C1CO1)(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.6
+  },
+  {
+    "name": "Compound 192",
+    "formula": "ClCC1C=CC(=C2C=1C=CC=[NH+]2)O.[Cl-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 193",
+    "formula": "CN(CC1C=CC2=C(C=1O)N=CC=C2)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.0
+  },
+  {
+    "name": "Compound 194",
+    "formula": "CCCN(CC1C=CC2=C(C=1O)N=CC=C2)CCC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.1
+  },
+  {
+    "name": "Compound 195",
+    "formula": "C#CCN1C(=O)C2=C(S1(=O)=O)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.47
+  },
+  {
+    "name": "Compound 196",
+    "formula": "C1C=CC2=C(C=1)N=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.96
+  },
+  {
+    "name": "Compound 197",
+    "formula": "C1=CC=C(C=C1)CC1C=CC=C2C=1C=CC=N2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.74
+  },
+  {
+    "name": "Compound 198",
+    "formula": "OC1C=CC(=C2C=1N=CC=C2)CC1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.06
+  },
+  {
+    "name": "Compound 199",
+    "formula": "C1NN=C(N=1)N=CC1C=CC(=CC=1)C=NC1=NNC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.2
+  },
+  {
+    "name": "Compound 200",
+    "formula": "OC1=NC=CC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 54.6
+  },
+  {
+    "name": "Compound 201",
+    "formula": "SC1N=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 59.5
+  },
+  {
+    "name": "Compound 202",
+    "formula": "F[P-](F)(F)(F)(F)F.CCN1C=C[N+](=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 62.05
+  },
+  {
+    "name": "Compound 203",
+    "formula": "F[P-](F)(F)(F)(F)F.CCCCCCCCN1C=C[N+](=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.98
+  },
+  {
+    "name": "Compound 204",
+    "formula": "ClC1=CC=C(C=C1)/C=C/C1=NC2C=CC=CC=2NC1=O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.8
+  },
+  {
+    "name": "Compound 205",
+    "formula": "CN(C1=CC=C(C=C1)/C=C/C1=NC2C=CC=CC=2NC1=O)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.4
+  },
+  {
+    "name": "Compound 206",
+    "formula": "COC1C=CC2=C(C=1)C=CC(=C2)C(C(=O)N/N=C(/C1C=CC=CC=1)\\C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.0
+  },
+  {
+    "name": "Compound 207",
+    "formula": "COC1C=CC2=C(C=1)C=CC(=C2)C(C(=O)N/N=C(/C1=CC=C(C=C1)Br)\\C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 208",
+    "formula": "CCN(CCN1C2C=CC(=CC=2C(=O)C1=O)Br)CC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.5
+  },
+  {
+    "name": "Compound 209",
+    "formula": "CCN(CCN1C2C=CC=CC=2C(=O)C1=O)CC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.8
+  },
+  {
+    "name": "Compound 210",
+    "formula": "CCN(CCN1C2C=CC(=CC=2C(=O)C1=O)F)CC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.6
+  },
+  {
+    "name": "Compound 211",
+    "formula": "[O-]C(=O)C/N=C/C=C/C1C=CC=CC=1.[K+]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.3
+  },
+  {
+    "name": "Compound 212",
+    "formula": "[O-]C(=O)C(CC1=CNC=N1)/N=C/C=C/C1C=CC=CC=1.[K+]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.7
+  },
+  {
+    "name": "Compound 213",
+    "formula": "[O-]C(=O)C(CC1=CNC2=C1C=CC=C2)/N=C/C=C/C1=CC=CC=C1.[K+]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.0
+  },
+  {
+    "name": "Compound 214",
+    "formula": "C1=CC(=NC(=C1)C1=NC2=C(N1)C=CC=C2)C1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.0
+  },
+  {
+    "name": "Compound 215",
+    "formula": "S(CC1=NC2=C(N1)C=CC=C2)CC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.0
+  },
+  {
+    "name": "Compound 216",
+    "formula": "O(CC1=NC2=C(N1)C=CC=C2)CC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.0
+  },
+  {
+    "name": "Compound 217",
+    "formula": "C1C=CC2=C(C=1)NC(=N2)CCC1=NC2=C(N1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.0
+  },
+  {
+    "name": "Compound 218",
+    "formula": "COC1C=CC(=CC=1/C=C/C(=O)C1=CC=C(C=C1)OCC(=O)O)OC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.96
+  },
+  {
+    "name": "Compound 219",
+    "formula": "COC1C=CC(=CC=1)/C=C/C(=O)C1=CC=C(C=C1)OCC(=O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.29
+  },
+  {
+    "name": "Compound 220",
+    "formula": "CC(=O)COC1=CC=C(C=C1)C(=O)/C=C/C1C=CC(=CC=1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.37
+  },
+  {
+    "name": "Compound 221",
+    "formula": "C1C=C(N=C(C=1)C1=NC2=C(S1)C=CC=C2)C1=NC2=C(S1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.0
+  },
+  {
+    "name": "Compound 222",
+    "formula": "S(CC1=NC2=C(S1)C=CC=C2)CC1=NC2=C(S1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.0
+  },
+  {
+    "name": "Compound 223",
+    "formula": "C1C=CC2=C(C=1)SC(=N2)CCC1=NC2=C(S1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 224",
+    "formula": "O=CC1=CC2=CC(Cl)=CC(=C2C=C1Cl)[N+](=C)[O-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.0
+  },
+  {
+    "name": "Compound 225",
+    "formula": "O=CC1C=C2C=C(C=CC2=CC=1Cl)[N+](=O)[O-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.0
+  },
+  {
+    "name": "Compound 226",
+    "formula": "O=CC1C=C2C=C(Cl)C=CC2=CC=1Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 83.0
+  },
+  {
+    "name": "Compound 227",
+    "formula": "COC1C=CC(=CC=1O)/C=N/C1C=CC=C(C=1)C(=O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.53
+  },
+  {
+    "name": "Compound 228",
+    "formula": "OC1=CC=C2C(=C1/C=N/C1=CC=CC(=C1)C(=O)O)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.13
+  },
+  {
+    "name": "Compound 229",
+    "formula": "COC1=CC=C(C=C1)/C=C/C=N/C(=C/C(=C)C(=O)O)/C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.07
+  },
+  {
+    "name": "Compound 230",
+    "formula": "COC1C=CC(=CC=1)/C=C/C=N/C1=C(C)N(N(C1=O)C1=CC=CC=C1)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 98.14
+  },
+  {
+    "name": "Compound 231",
+    "formula": "NC(=S)N/N=C/C1=CC=NC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 84.5
+  },
+  {
+    "name": "Compound 232",
+    "formula": "ClC1C=CC(=CC=1)C1=NC2=C(N1CCCCN1C(=NC3=C1C=CC=C3)C1C=CC(=CC=1)Cl)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.0
+  },
+  {
+    "name": "Compound 233",
+    "formula": "C1=CC=C(C=C1)C1=NC2=C(N1CCCCN1C(=NC3=C1C=CC=C3)C1C=CC=CC=1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.0
+  },
+  {
+    "name": "Compound 234",
+    "formula": "CCCCCCCCCCCC[N+](CCOC(=O)C[N+](CC/N=C/C1=CC=CO1)(C)C)(C)C.[Cl-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.65
+  },
+  {
+    "name": "Compound 235",
+    "formula": "CCCCCCCCCCCC[N+](CCOC(=O)C[N+](CC/N=C/C=C/C1=CC=CC=C1)(C)C)(C)C.[Cl-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.99
+  },
+  {
+    "name": "Compound 236",
+    "formula": "CCCCCCCCCCCC[N+](CCOC(=O)C[N+](CC/N=C/C1=CC=C(C=C1)OC)(C)C)(C)C.[Cl-].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.44
+  },
+  {
+    "name": "Compound 237",
+    "formula": "CSC1SC=C([N+]=1C1C=CC=CC=1)C.[I-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.86
+  },
+  {
+    "name": "Compound 238",
+    "formula": "O=C1C(=O)C2=C(N1CCCCCC[N+](C)(C)C)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.07
+  },
+  {
+    "name": "Compound 239",
+    "formula": "C1=CC=C(C=C1)C1=NC2=C(N1)C1C=CC=NC=1C1=C2C=CC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.2
+  },
+  {
+    "name": "Compound 240",
+    "formula": "C1C=NC2C(C=1)=C1N=C(NC1=C1C=2N=CC=C1)C1C=CC(=CC=1)C1=NC2=C(N1)C1C=CC=NC=1C1=C2C=CC=N1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.3
+  },
+  {
+    "name": "Compound 241",
+    "formula": "O=C1NC2=C(/C/1=N/C1=CC=CC=C1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 74.8
+  },
+  {
+    "name": "Compound 242",
+    "formula": "OC1C=CC(=CC=1)/N=C/1\\C(=O)NC2=C1C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.2
+  },
+  {
+    "name": "Compound 243",
+    "formula": "ClC1=CC=C(C=C1)/N=C/1\\C(=O)NC2=C1C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.3
+  },
+  {
+    "name": "Compound 244",
+    "formula": "N[C@H](C(=O)O)CC1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.8
+  },
+  {
+    "name": "Compound 245",
+    "formula": "OC1C=CC(=C(C=1)O)/C=N/NC1C=CC(=CC=1[N+](=O)[O-])[N+](=O)[O-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.89
+  },
+  {
+    "name": "Compound 246",
+    "formula": "CC1C=CC(=CC=1)/C=N/NC1C=CC(=CC=1[N+](=O)[O-])[N+](=O)[O-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.77
+  },
+  {
+    "name": "Compound 247",
+    "formula": "ClC1=CC=C(C=C1)/C=N/NC1C=CC(=CC=1[N+](=O)[O-])[N+](=O)[O-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 84.3
+  },
+  {
+    "name": "Compound 248",
+    "formula": "C1CCC2(CC1)NC1C=CC=CC=1N=C1C2CCCC1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.7
+  },
+  {
+    "name": "Compound 249",
+    "formula": "CC1(NC2C=CC=CC=2N=C2C1CCCC2)C1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.3
+  },
+  {
+    "name": "Compound 250",
+    "formula": "ClC1C=CC(=CC=1)C1SC2=NC(/N=C/C3C=CC=CC=3)=CC(=O)N2C(=O)C=1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.8
+  },
+  {
+    "name": "Compound 251",
+    "formula": "O/N=C\\C(=O)NC1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 59.5
+  },
+  {
+    "name": "Compound 252",
+    "formula": "O/N=C\\C(=O)NC1C=CC=CC=1OC",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 72.8
+  },
+  {
+    "name": "Compound 253",
+    "formula": "O/N=C\\C(=O)NC1C=CC=CC=1Br",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 75.1
+  },
+  {
+    "name": "Compound 254",
+    "formula": "CCCCCCCCOP(=O)(OC1C=CC(=CC=1OC)/C=N/CC[N+](CCCCCCCC)(C)C)[O-].[Na+].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.09
+  },
+  {
+    "name": "Compound 255",
+    "formula": "CCCCCCCCCCCCOP(=O)(OC1C=CC(=CC=1OC)/C=N/CC[N+](CCCCCCCCCCCC)(C)C)[O-].[Na+].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.85
+  },
+  {
+    "name": "Compound 256",
+    "formula": "CCCCCCCCCCCCCCCCOP(=O)(OC1C=CC(=CC=1OC)/C=N/CC[N+](CCCCCCCCCCCCCCCC)(C)C)[O-].[Na+].[Br-]",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.27
+  },
+  {
+    "name": "Compound 257",
+    "formula": "N#CC1=C(N)OC2=C(C1C1C=CC=CC=1Cl)C(=O)OC1=C2C=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.6
+  },
+  {
+    "name": "Compound 258",
+    "formula": "N#CC1=C(N)OC2=C(C1C1=CC=C(C=C1)Cl)C(=O)OC1=C2C=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.8
+  },
+  {
+    "name": "Compound 259",
+    "formula": "SC1NN=C(N=1)/N=C/C1=CC=CO1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.0
+  },
+  {
+    "name": "Compound 260",
+    "formula": "SC1NN=C(N=1)/N=C/C1=CC=CS1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.0
+  },
+  {
+    "name": "Compound 261",
+    "formula": "N/N=C(/C(=N/C1C=CC=CC=1O)/C1=CC=CC=C1)\\C1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 88.62
+  },
+  {
+    "name": "Compound 262",
+    "formula": "BrCCOC1C=CC=C2C=1N=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.2
+  },
+  {
+    "name": "Compound 263",
+    "formula": "BrCCCOC1C=CC=C2C=1N=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.7
+  },
+  {
+    "name": "Compound 264",
+    "formula": "BrCCCCOC1C=CC=C2C=1N=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.5
+  },
+  {
+    "name": "Compound 265",
+    "formula": "OC1=CC=C(C=C1)/C=N/NC(=O)C1C=CC=NC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.3
+  },
+  {
+    "name": "Compound 266",
+    "formula": "CC1C=CC(=CC=1)/C=N/NC(=O)C1C=CC=NC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.5
+  },
+  {
+    "name": "Compound 267",
+    "formula": "NC1C=CC(=CC=1)OC1C=C(C=C(C=1)OC1=CC=C(C=C1)N)OC1C=CC(=CC=1)N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.4
+  },
+  {
+    "name": "Compound 268",
+    "formula": "C/C(=C/C(=O)C1C=CC=CN=1)/O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.2
+  },
+  {
+    "name": "Compound 269",
+    "formula": "O/C(=C\\C(=O)C1C=C(N(N=1)C)C)/C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.3
+  },
+  {
+    "name": "Compound 270",
+    "formula": "O=C(C1C=CC=NC=1)N/N=C/C1C=CC(=CC=1)N(C)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.0
+  },
+  {
+    "name": "Compound 271",
+    "formula": "Cc1csc(N)n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 55.3
+  },
+  {
+    "name": "Compound 272",
+    "formula": "Nc1nc(=S)[nH][nH]1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 67.6
+  },
+  {
+    "name": "Compound 273",
+    "formula": "c1ccc2n[nH]nc2c1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 69.9
+  },
+  {
+    "name": "Compound 274",
+    "formula": "On1nnc2cccnc21",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 74.8
+  },
+  {
+    "name": "Compound 275",
+    "formula": "Cc1ccc(/C=C/C=O)cc1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 73.0
+  },
+  {
+    "name": "Compound 276",
+    "formula": "COc1ccc(/C=C/C=O)cc1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.0
+  },
+  {
+    "name": "Compound 277",
+    "formula": "C/C(=N\\c1ccccn1)c1ccc(O)cc1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.0
+  },
+  {
+    "name": "Compound 278",
+    "formula": "C/C(=N\\c1cccc(O)c1)c1ccc(O)cc1O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.7
+  },
+  {
+    "name": "Compound 279",
+    "formula": "CCOC(=O)Cn1c(=O)c(C)nc2ccccc21",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.7
+  },
+  {
+    "name": "Compound 280",
+    "formula": "[N-]=[N+]=NCC(CCl)OCc1ccc(O)c2ncccc12",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.8
+  },
+  {
+    "name": "Compound 281",
+    "formula": "N#CC1=C(c2ccccc2)c2ccc3cccnc3c2OC1N",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.1
+  },
+  {
+    "name": "Compound 282",
+    "formula": "COc1ccccc1C1=NOC(C)([C@@H]2CC=C(C)C(=O)C2)C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.28
+  },
+  {
+    "name": "Compound 283",
+    "formula": "N#CC1=C(N)Oc2c(c(=O)oc3ccccc23)C1c1ccccc1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.0
+  },
+  {
+    "name": "Compound 284",
+    "formula": "Oc1c(CN2CCN(Cc3ccccc3)CC2)ccc2cccnc12",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.6
+  },
+  {
+    "name": "Compound 285",
+    "formula": "C1OC1CSc1nc(N(CC2CO2)CC2CO2)nn1CC1CO1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.8
+  },
+  {
+    "name": "Compound 286",
+    "formula": "COC(=O)C1=C(N)Oc2c(ccc3cccnc23)C1c1ccc(OC)cc1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.8
+  },
+  {
+    "name": "Compound 287",
+    "formula": "COC(=O)C1=C(N)Oc2c(ccc3cccnc23)C1c1ccc(Cl)cc1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 89.5
+  },
+  {
+    "name": "Compound 288",
+    "formula": "c1ccc(CNCCCN(CCN2CCCCC2)Cc2ccccn2)nc1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 86.0
+  },
+  {
+    "name": "Compound 289",
+    "formula": "Oc1c(CN2CCN(Cc3ccc4c(c3)OCO4)CC2)ccc2cccnc12",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.8
+  },
+  {
+    "name": "Compound 290",
+    "formula": "OCC/N=C/c1ccccc1N1CCN(c2ccccc2/C=N/CCO)CC1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.0
+  },
+  {
+    "name": "Compound 291",
+    "formula": "CCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.45
+  },
+  {
+    "name": "Compound 292",
+    "formula": "CCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 94.41
+  },
+  {
+    "name": "Compound 293",
+    "formula": "Cc1ccc(/N=C/c2c(O)ccc3ccccc23)cc1/N=C/c1c(O)ccc2ccccc12",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 92.46
+  },
+  {
+    "name": "Compound 294",
+    "formula": "CCCCCCCCCCCCNc1nc(NCCCN(C)C)nc(NCCCN(C)C)n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 96.66
+  },
+  {
+    "name": "Compound 295",
+    "formula": "C(=N/c1ccc(Cc2ccc(/N=C/c3ccc4ccccc4n3)cc2)cc1)\\c1ccc2ccccc2n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 81.11
+  },
+  {
+    "name": "Compound 296",
+    "formula": "C(=N/c1ccc(Oc2ccc(/N=C/c3ccc4ccccc4n3)cc2)cc1)\\c1ccc2ccccc2n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.8
+  },
+  {
+    "name": "Compound 297",
+    "formula": "C(=N/c1ccc(CCc2ccc(/N=C/c3ccc4ccccc4n3)cc2)cc1)\\c1ccc2ccccc2n1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.3
+  },
+  {
+    "name": "Compound 298",
+    "formula": "CCOC(=O)CN1N=C(C)C(=CC1=S)CC1C=CC=CC=1Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 97.0
+  },
+  {
+    "name": "Compound 299",
+    "formula": "CCOC(=O)CN1N=C(C)C(=CC1=O)CC1C=CC=CC=1Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 91.0
+  },
+  {
+    "name": "Compound 300",
+    "formula": "OCCN1N=C(C)C(=CC1=O)CC1C=CC=CC=1Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 87.0
+  },
+  {
+    "name": "Compound 301",
+    "formula": "OCCN1N=C(C)C(=CC1=S)CC1C=CC=CC=1Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 93.0
+  },
+  {
+    "name": "Compound 302",
+    "formula": "N#CC(C1=CC=CC=C1)C1C=CC(=NN=1)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.84
+  },
+  {
+    "name": "Compound 303",
+    "formula": "ClC1C=CC(=NN=1)C1=CNC2=C1C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 95.67
+  },
+  {
+    "name": "Compound 304",
+    "formula": "ClC1C=CC(=NN=1)C1=CC=C(C=C1)C(=O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 72.64
+  },
+  {
+    "name": "Compound 305",
+    "formula": "ClC1C=CC(=NN=1)C1=CC=CC(=C1)C(=O)O",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 85.2
+  },
+  {
+    "name": "Compound 306",
+    "formula": "ClC1C=CC(=NN=1)N1C=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 69.05
+  },
+  {
+    "name": "Compound 307",
+    "formula": "OC1CCN(CC1)C1C=CC(=NN=1)Cl",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 82.42
+  },
+  {
+    "name": "Compound 308",
+    "formula": "CC1=CCC(=NN1C1C=CC(=NN=1)Cl)C",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 83.04
+  },
+  {
+    "name": "Compound 309",
+    "formula": "CC1=CC=C(C=C1)C1=NNC(=O)C2C1=CC=CC=2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 77.17
+  },
+  {
+    "name": "Compound 310",
+    "formula": "ClC1=CC=C(C=C1)C1=NNC(=O)C2C1=CC=CC=2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 76.98
+  },
+  {
+    "name": "Compound 311",
+    "formula": "COC1C=CC(=CC=1)C1=NNC(=O)C2C1=CC=CC=2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 79.86
+  },
+  {
+    "name": "Compound 312",
+    "formula": "O=C1NN=C(C2C1=CC=CC=2)C1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 70.71
+  },
+  {
+    "name": "Compound 313",
+    "formula": "CC1=NNC(=S)C=C1CC1=CC=CC=C1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.0
+  },
+  {
+    "name": "Compound 314",
+    "formula": "CC1=NNC(=O)C=C1CC1C=CC=CC=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 65.0
+  },
+  {
+    "name": "Compound 315",
+    "formula": "O=C1C(=O)C2=C(N1CC1=CC(=NN=C1C1C=CC=CN=1)C1C=CC=CN=1)C=CC=C2",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 90.0
+  },
+  {
+    "name": "Compound 316",
+    "formula": "O1CCN(CC1)CC1=CC(=NN=C1C1C=CC=CN=1)C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 84.0
+  },
+  {
+    "name": "Compound 317",
+    "formula": "CC1C=CC(=CC=1)C1=CC(=NN=C1C1C=CC=CN=1)C1C=CC=CN=1",
+    "properties": "SMILES-based inhibitor from Fe-HCl dataset.",
+    "efficiency": 73.0
+  }
+]
