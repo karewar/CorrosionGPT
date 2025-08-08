@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Compound 0",
+    "formula": "[Br-].c1ccc(OCCC[n+]2ccccn2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.91
+  },
+  {
+    "name": "Compound 1",
+    "formula": "[Br-].c1ccc(OCCC[n+]2ccccn2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.75
+  },
+  {
+    "name": "Compound 2",
+    "formula": "[Br-].c1ccc(OCCC[n+]2ccccn2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.77
+  },
+  {
+    "name": "Compound 3",
+    "formula": "[Br-].c1ccc(OCCC[n+]2ccccn2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.6
+  },
+  {
+    "name": "Compound 4",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCCCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.57
+  },
+  {
+    "name": "Compound 5",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCCCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.71
+  },
+  {
+    "name": "Compound 6",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCCCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.85
+  },
+  {
+    "name": "Compound 7",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCCCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.88
+  },
+  {
+    "name": "Compound 8",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCOCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.78
+  },
+  {
+    "name": "Compound 9",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCOCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.84
+  },
+  {
+    "name": "Compound 10",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCOCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.86
+  },
+  {
+    "name": "Compound 11",
+    "formula": "[N-]=[N+]=NCc1cc(CN2CCOCC2)c(O)c2ncccc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.9
+  },
+  {
+    "name": "Compound 12",
+    "formula": "Brc1ccc(-n2ccnc2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.56
+  },
+  {
+    "name": "Compound 13",
+    "formula": "Brc1ccc(-n2ccnc2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.28
+  },
+  {
+    "name": "Compound 14",
+    "formula": "Brc1ccc(-n2ccnc2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.46
+  },
+  {
+    "name": "Compound 15",
+    "formula": "Brc1ccc(-n2ccnc2)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.81
+  },
+  {
+    "name": "Compound 16",
+    "formula": "Brc1ccc2nc[nH]c2c1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.61
+  },
+  {
+    "name": "Compound 17",
+    "formula": "Brc1ccc2nc[nH]c2c1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.26
+  },
+  {
+    "name": "Compound 18",
+    "formula": "Brc1ccc2nc[nH]c2c1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.5
+  },
+  {
+    "name": "Compound 19",
+    "formula": "Brc1ccc2nc[nH]c2c1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.86
+  },
+  {
+    "name": "Compound 20",
+    "formula": "BrCCCCOc1cccc2cccnc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.97
+  },
+  {
+    "name": "Compound 21",
+    "formula": "BrCCCOc1cccc2cccnc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.96
+  },
+  {
+    "name": "Compound 22",
+    "formula": "BrCCOc1cccc2cccnc12",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.95
+  },
+  {
+    "name": "Compound 23",
+    "formula": "C#CCN1C(=O)c2ccccc2S1(=O)=O",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.92
+  },
+  {
+    "name": "Compound 24",
+    "formula": "C(=N/c1ccc(-c2ccc(/N=C/c3ccsc3)cc2)cc1)\\c1ccsc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.63
+  },
+  {
+    "name": "Compound 25",
+    "formula": "C(=N/c1ccc(-c2ccc(/N=C/c3ccsc3)cc2)cc1)\\c1ccsc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.73
+  },
+  {
+    "name": "Compound 26",
+    "formula": "C(=N/c1ccc(-c2ccc(/N=C/c3ccsc3)cc2)cc1)\\c1ccsc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.8
+  },
+  {
+    "name": "Compound 27",
+    "formula": "C(=N/c1ccc(-c2ccc(/N=C/c3ccsc3)cc2)cc1)\\c1ccsc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.54
+  },
+  {
+    "name": "Compound 28",
+    "formula": "C(=N/c1ccc(Cc2ccc(/N=C/c3ccsc3)cc2)cc1)\\c1ccsc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.76
+  },
+  {
+    "name": "Compound 29",
+    "formula": "C(=N/c1ccc(Cc2ccc(/N=C/c3ccsc3)cc2)cc1)\\c1ccsc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.54
+  },
+  {
+    "name": "Compound 1240",
+    "formula": "Sc1nnc(Cn2cncn2)n1N=Cc1ccc(Cl)cc1",
+    "properties": "Corrosion inhibitor from dataset 1.",
+    "efficiency": 0.97
+  }
+]
