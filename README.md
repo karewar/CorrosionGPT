@@ -25,8 +25,7 @@
 
 Each JSON entry follows this structure:
 
-```json
-{
+json:
   "compound_name": "ExampleCompound",
   "smiles": "CCN(CC)CC",
   "efficiency": 88.5,
@@ -34,7 +33,6 @@ Each JSON entry follows this structure:
   "environment": "Fe-HCl"
 }
 
----```
 
 🧠 Model Training
 Use the provided script to train a model on the corrosion inhibitor dataset:
